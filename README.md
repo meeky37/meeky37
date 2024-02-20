@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @meeky37
-- 👀 I’m interested in ... Computers
-- 🌱 I’m currently learning ... Python, Pyspark, AWS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Snapchat :)
+- 🌱 I’m currently studying at the University of Birmingham.
 
 <!---
 meeky37/meeky37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
