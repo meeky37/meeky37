@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meeky37
-- 🌱 I’m currently studying at the University of Birmingham.
+- 🎓 University of Birmingham Computer Science Graduate - Class of 2024
 
 <!---
 meeky37/meeky37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
