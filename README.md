@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meeky37
+- 👋 Hi, I’m @meeky37, a Junior Backend Engineer at CareScribe
 - 🎓 University of Birmingham Computer Science Graduate - Class of 2024
 
 <!---
